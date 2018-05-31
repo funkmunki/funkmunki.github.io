@@ -9,7 +9,7 @@
 		padding: 0px;
 		background: #202020;
 		font-family: 'Source Sans Pro', sans-serif;
-		src: url("../funkmunki/font/SourceSansPro-Regular.ttf") format('truetype');
+		src: url(../funkmunki/font/SourceSansPro-Regular.ttf);
 		font-size: 12pt;
 		font-weight: 300;
 		color: #444444;
